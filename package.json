@@ -1,6 +1,7 @@
 {
-  "name": "with-typescript",
+  "name": "meine-helden",
   "version": "1.0.0",
+  "description": "Each of us have own heros from the childhood",
   "scripts": {
     "dev": "next",
     "build": "next build",
